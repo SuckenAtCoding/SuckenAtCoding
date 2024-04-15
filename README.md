@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SuckenAtCoding
 - 👀 I’m interested in coding, obviously
 - 🌱 I’m currently learning Frontend Web Development
-- 💞️ I’m looking not looking to collab as of this point
+- 💞️ I’m not looking to collab as of this point
 - 📫 How to reach me? You can't
 - 😄 Pronouns: Male
 - ⚡ Fun fact: I love you when you are likeable
